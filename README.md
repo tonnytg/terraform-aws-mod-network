@@ -4,6 +4,7 @@ Modulo Terraform para construção de uma rede
 
 ### Variaveis que você precisa definir para utilizar esse modulo
 Já deixamos definido por padrão o CIDR_BLOCK com 10.0.0.0/16
+
 Temos que definir CIDR para a VPC que você quer usar
 `cidr_block`
 
